@@ -154,10 +154,8 @@ article img{
     transition: 0.6s;
 }
 
-@media screen and (min-width: 700px){
-    .container-for , .row{
-        flex-direction: column;
-    }
+.education{
+    text-align: center;
 }
 
 .container:hover{
